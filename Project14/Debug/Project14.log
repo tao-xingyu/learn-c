@@ -1,0 +1,6 @@
+﻿  第三章练习题哈哈哈.c
+c:\users\taoxingyu\source\repos\project14\第三章练习题哈哈哈.c(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\taoxingyu\source\repos\project14\第三章练习题哈哈哈.c(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\taoxingyu\source\repos\project14\第三章练习题哈哈哈.c(259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\taoxingyu\source\repos\project14\第三章练习题哈哈哈.c(261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project14.vcxproj -> C:\Users\taoxingyu\source\repos\Project14\Debug\Project14.exe
